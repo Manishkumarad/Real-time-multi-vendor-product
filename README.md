@@ -1,4 +1,5 @@
 # Real-Time Multi-Vendor Product & Order Management System
+--------- this project is build during my intership from my previous organization.
 
 A production-grade REST backend with real-time capabilities built with Node.js, Express, MongoDB, and Socket.IO.
 
